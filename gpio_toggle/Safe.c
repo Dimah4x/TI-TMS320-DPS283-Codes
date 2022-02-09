@@ -5,7 +5,7 @@
 * *
 * ***safe with changeable password****
 *
-* Author: Avi Bents	313298341
+* Author: Avi
 * 
 *
 *********************************************/
